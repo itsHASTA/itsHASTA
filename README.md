@@ -53,22 +53,31 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 ## 🔗 Let's connect!
 
 <p align="left">
+  <!-- Instagram — style=social (friendly & casual) -->
   <a href="https://instagram.com/prihasta_ka" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-follow?style=social&logo=instagram" />
   </a>
+
+  <!-- WhatsApp — style=flat (clean & simple) -->
   <a href="https://wa.me/6285320010011" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=social&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
+
+  <!-- LinkedIn — style=flat-square (professional & techy) -->
   <a href="https://www.linkedin.com/in/prihasta-krisa-a-93011a291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- Email — style=for-the-badge (strong CTA) -->
   <a href="mailto:prihasta2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=social&logo=gmail" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
