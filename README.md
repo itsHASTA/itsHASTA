@@ -70,7 +70,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
   
   <!-- Telegram -->
   <a href="https://t.me/prihasta" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-  badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
   <!-- Email -->
@@ -80,9 +80,11 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 </p>
 
 
+
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
 
