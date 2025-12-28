@@ -53,32 +53,32 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 ## 🔗 Let's connect!
 
 <p align="center">
-  <!-- Instagram — audience & vibe -->
+  <!-- Instagram -->
   <a href="https://instagram.com/prihasta_ka" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=111111" />
   </a>
 
-  <!-- WhatsApp — fast contact / booking -->
+  <!-- WhatsApp -->
   <a href="https://wa.me/6285320010011" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-DROP%20A%20LINE-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/WHATSAPP-DROP%20A%20LINE-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=111111" />
   </a>
 
-  <!-- LinkedIn — professional connect -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/prihasta-krisa-a-93011a291" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" />
   </a>
 
-  <!-- Email — primary CTA -->
+  <!-- Email -->
   <a href="mailto:prihasta2004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-BOOK%20ME-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/EMAIL-BOOK%20ME-111111?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111111" />
   </a>
 </p>
-
 
 
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
 
