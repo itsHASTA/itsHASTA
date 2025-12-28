@@ -55,22 +55,27 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 <p align="center">
   <!-- Instagram -->
   <a href="https://instagram.com/prihasta_ka" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=111111" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/6285320010011" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-DROP%20A%20LINE-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=111111" />
+    <img src="https://img.shields.io/badge/WHATSAPP-DROP%20A%20LINE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/prihasta-krisa-a-93011a291" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/USERNAME_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-  badge&logo=telegram&logoColor=white" />
   </a>
 
   <!-- Email -->
   <a href="mailto:prihasta2004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-BOOK%20ME-111111?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111111" />
+    <img src="https://img.shields.io/badge/EMAIL-BOOK%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -78,6 +83,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
 
