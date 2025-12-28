@@ -50,6 +50,25 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 
 ---
 
+## 🔗 Let's connect!
+
+<p align="left">
+  <a href="https://instagram.com/prihasta_ka" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram" />
+  </a>
+  <a href="https://wa.me/6285320010011" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=social&logo=whatsapp" />
+  </a>
+  <a href="https://www.linkedin.com/in/prihasta-krisa-a-93011a291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin" />
+  </a>
+  <a href="mailto:prihasta2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=social&logo=gmail" />
+  </a>
+</p>
+
+
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
