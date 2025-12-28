@@ -53,31 +53,33 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 ## 🔗 Let's connect!
 
 <p align="left">
-  <!-- Instagram — style=social (friendly & casual) -->
+  <!-- Instagram — DJ persona / audience -->
   <a href="https://instagram.com/prihasta_ka" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-follow?style=social&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@prihasta_ka-111111?style=flat-square&logo=instagram&logoColor=E4405F" />
   </a>
 
-  <!-- WhatsApp — style=flat (clean & simple) -->
+  <!-- WhatsApp — fast booking / direct line -->
   <a href="https://wa.me/6285320010011" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Drop%20a%20Line-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
 
-  <!-- LinkedIn — style=flat-square (professional & techy) -->
+  <!-- LinkedIn — professional side -->
   <a href="https://www.linkedin.com/in/prihasta-krisa-a-93011a291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" />
   </a>
 
-  <!-- Email — style=for-the-badge (strong CTA) -->
+  <!-- Email — primary CTA -->
   <a href="mailto:prihasta2004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Book%20Me-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
+
 
 
 
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
