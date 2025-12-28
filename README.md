@@ -69,7 +69,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
   </a>
   
   <!-- Telegram -->
-  <a href="https://t.me/USERNAME_KAMU" target="_blank">
+  <a href="https://t.me/prihasta" target="_blank">
     <img src="https://img.shields.io/badge/TELEGRAM-CHAT-26A5E4?style=for-the-  badge&logo=telegram&logoColor=white" />
   </a>
 
@@ -83,6 +83,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
 
