@@ -52,7 +52,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 
 ## 🔗 Let's connect!
 
-<p align="left">
+<p align="center">
   <!-- Instagram — audience & vibe -->
   <a href="https://instagram.com/prihasta_ka" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
@@ -79,6 +79,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 📍 Indonesia  
 🎧 Rhythm-driven creativity · 🧠 Logic-driven engineering  
 📌 Always learning, always refining
+
 
 
 
