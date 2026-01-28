@@ -44,6 +44,7 @@ Both worlds train me to think in systems — whether it’s composing a set or d
 ## 🛠 Tools
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+![Debian](https://img.shields.io/badge/Debian-111111?style=flat-square&logo=debian&logoColor=A81D33)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
